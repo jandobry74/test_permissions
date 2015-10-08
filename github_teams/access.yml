@@ -1,0 +1,10 @@
+---
+permission: push
+members:
+- john.doe
+- marry.lue
+- mark.grouse
+repos:
+- test-repo
+- test-permissions-repo
+- test-gh-repo
